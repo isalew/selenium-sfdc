@@ -19,6 +19,8 @@ Overview
 
 The `selenium-sfdc` extension allows Selenium IDE tests to interact at a higher level with the Salesforce UI, and at a deeper level with the Salesforce API.
 
+*This repo is in rough development, and has plenty of areas for growth. If you would like to see improvements in this extension, please submit a pull request.*
+
 #### Use Cases
 
 -	Simplify IDE usage with high-level Salesforce commands
