@@ -8,7 +8,6 @@ Table of Contents
 -	[Setup](#setup)
 -	[Methods](#methods)
 -	[Examples](#examples)
--	[Questions](#questions)
 -	[Additional Resources](#additional_resources)
 
 ---
@@ -132,16 +131,6 @@ Examples
 -	[Questions](#questions)
 
 ---
-
-<a name="questions"></a>
-
-Questions
----------
-
--	Use case for a test suite
--	Type of resources needed
-	-	Who is needed to build?
-	-	Who is needed to run?
 
 <a name="additional_resources"></a>
 
